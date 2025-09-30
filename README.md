@@ -10,4 +10,4 @@ Return books and update records automatically.
 
 View a complete transaction history of issued and returned books.
 
-The system demonstrates object-oriented programming concepts including classes, inheritance, exception handling, collections, and basic data management—all implemented in a single Java file for simplicity.
+The system demonstrates object-oriented programming concepts including classes, inheritance, exception handling, collections, and basic data management
